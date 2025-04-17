@@ -55,12 +55,12 @@ car-parking-slot-detection/
 
 # 📽️ Usage
 
-Step 1: Select Parking Slots
+-Step 1: Select Parking Slots
    - python parking_slot_picker.py
    - A window will appear with carParkImg.png
    - Use left-click to mark new slots, right-click to remove.
    - Slot positions will be saved to CarParkPos.
-Step 2: Run the Detector
+-Step 2: Run the Detector
    - python main_detector.py
    - Processes carPark.mp4.
    - Displays slots with colored rectangles:
